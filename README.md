@@ -20,6 +20,8 @@ A complete end-to-end customer segmentation case study using RFM analysis, from 
 
 ## 📁 Repo Structure
 
+
+
 ├── notebooks/ # 01_EDA_and_Cleaning.ipynb
 │ # 02_RFM_Scoring_and_Segmentation.ipynb
 ├── data/ # raw → processed → final CSVs
@@ -31,9 +33,7 @@ A complete end-to-end customer segmentation case study using RFM analysis, from 
 
 
 ### 🎯 Results & Next Steps
-Key Finding: 0.6 % of customers (“Champions”) drive 9 % of revenue; 44 % are “Lost” yet contribute only 14 %.
-
-Action: Tailored campaigns for “Regular” → “Loyal” uplift; churn-risk mitigation for “At-Risk.”
-
-Future: Predictive churn modeling, real-time segmentation updates, automated reporting.
+- Key Finding: 0.6 % of customers (“Champions”) drive 9 % of revenue; 44 % are “Lost” yet contribute only 14 %.
+- Action: Tailored campaigns for “Regular” → “Loyal” uplift; churn-risk mitigation for “At-Risk.”
+- Future: Predictive churn modeling, real-time segmentation updates, automated reporting.
 
